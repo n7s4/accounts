@@ -1,0 +1,20 @@
+{
+  "account": [
+    {
+      "id": "CjgJqf9Ul",
+      "title": "旅游",
+      "time": "2023-08-10",
+      "type": "-1",
+      "money": "1000",
+      "remarks": "车费，住宿费，生活费"
+    },
+    {
+      "id": "9fNDMlVkm",
+      "title": "前端开发",
+      "time": "2023-08-13",
+      "type": "1",
+      "money": "50000",
+      "remarks": "工资"
+    }
+  ]
+}
